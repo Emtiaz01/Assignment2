@@ -198,6 +198,7 @@
         font-size: 20px;
         font-weight: 800;
     }
+
     .main-image img {
         position: relative;
         top: 600px;
@@ -207,6 +208,164 @@
         flex-shrink: 0;
         border-radius: 16px;
     }
+
+    .destination h2 {
+        position: relative;
+        top: 300px;
+        color: #131318;
+        text-align: center;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .destination p {
+        position: relative;
+        top: 300px;
+        left: 40px;
+        width: 309px;
+        color: rgba(19, 19, 24, 0.70);
+        text-align: center;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .maldives {
+        position: relative;
+        top: 270px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        border-radius: 16px;
+    }
+
+
+    .name1 {
+        position: relative;
+        top: 40px;
+        left: 160px;
+        color: #fff;
+        text-align: center;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .indonasia {
+        position: relative;
+        top: 290px;
+        left: 30px;
+        width: 335px;
+        height: 175.393px;
+        border-radius: 16px;
+    }
+
+    .name2 {
+        position: relative;
+        top: 240px;
+        left: 75px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .srilanka {
+        position: relative;
+        top: 285px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        border-radius: 16px;
+    }
+
+    .name3 {
+        position: relative;
+        top: -130px;
+        left: 160px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .north-america {
+        position: relative;
+        top: 300px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        border-radius: 16px;
+    }
+
+    .name4 {
+        position: relative;
+        top: 60px;
+        left: 50px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .kashmir {
+        position: relative;
+        top: 315px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        border-radius: 16px;
+    }
+
+    .name5 {
+        position: relative;
+        top: 270px;
+        left: -65px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .bangladesh {
+        position: relative;
+        top: 310px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        flex-shrink: 0;
+        border-radius: 16px;
+    }
+    .name6{
+        position: relative;
+        top: 70px;
+        left: 150px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .bandarban {
+        position: relative;
+        top: 330px;
+        left: 30px;
+        width: 335px;
+        height: 176px;
+        flex-shrink: 0;
+        border-radius: 16px;
+    }
+    .name7{
+        position: relative;
+        top: 270px;
+        left: 35px;
+        color: #FFF;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
 
 
 }
