@@ -388,6 +388,7 @@
     font-size: 28px;
     font-weight: 800;
 }
+
 .name7 {
     position: relative;
     top: -120px;
@@ -396,4 +397,125 @@
     font-family: Mulish;
     font-size: 28px;
     font-weight: 800;
+}
+
+.choose-us {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.choose-us h2 {
+    position: relative;
+    top: 100px;
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.choose-us p {
+    position: relative;
+    top: 124px;
+    left: 300px;
+    width: 643px;
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.small-bannerr {
+    max-width: 1250px;
+    margin: 0 auto;
+
+}
+
+.small-bannerr1 img {
+    position: relative;
+    top: 230px;
+    width: 64px;
+    height: 64px;
+}
+
+.small-bannerr1 h3 {
+    position: relative;
+    top: 250px;
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.small-bannerr1 p {
+    position: relative;
+    top: 270px;
+    width: 486px;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.small-banner2 img {
+    position: relative;
+    top: 10px;
+    left: 800px;
+    width: 64px;
+    height: 64px;
+}
+
+.small-banner2 h3 {
+    position: relative;
+    top: 20px;
+    left: 800px;
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.small-banner2 p {
+    position: relative;
+    top: 30px;
+    left: 800px;
+    width: 486px;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.small-banner3 img {
+    position: relative;
+    top: 103px;
+    left: 450px;
+    width: 64px;
+    height: 64px;
+}
+
+.small-banner3 h3 {
+    position: relative;
+    top: 130px;
+    left: 450px;
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.small-banner3 p {
+    position: relative;
+    top: 140px;
+    left: 450px;
+    width: 486px;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
 }

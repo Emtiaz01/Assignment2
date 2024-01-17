@@ -338,7 +338,8 @@
         flex-shrink: 0;
         border-radius: 16px;
     }
-    .name6{
+
+    .name6 {
         position: relative;
         top: 70px;
         left: 150px;
@@ -347,6 +348,7 @@
         font-size: 20px;
         font-weight: 800;
     }
+
     .bandarban {
         position: relative;
         top: 330px;
@@ -356,7 +358,8 @@
         flex-shrink: 0;
         border-radius: 16px;
     }
-    .name7{
+
+    .name7 {
         position: relative;
         top: 270px;
         left: 35px;
@@ -366,6 +369,116 @@
         font-weight: 800;
     }
 
+    .choose-us h2 {
+        position: relative;
+        left: 10px;
+        top: 400px;
+        color: #131318;
+        text-align: center;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .choose-us p {
+        position: relative;
+        top: 410px;
+        left: 50px;
+        width: 309px;
+        color: rgba(19, 19, 24, 0.70);
+        text-align: center;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .small-bannerr1 img {
+        position: relative;
+        top: 470px;
+        left: 50px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .small-bannerr1 h3 {
+        position: relative;
+        top: 490px;
+        left: 50px;
+        color: #131318;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .small-bannerr1 p {
+        position: relative;
+        top: 510px;
+        left: 50px;
+        width: 271px;
+        color: #5A5A5D;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .small-banner2 img {
+        position: relative;
+        top: 550px;
+        left: 50px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .small-banner2 h3 {
+        position: relative;
+        top: 570px;
+        left: 50px;
+        color: #131318;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .small-banner2 p {
+        position: relative;
+        top: 590px;
+        left: 50px;
+        color: #5A5A5D;
+        width: 271px;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .small-banner3 img {
+        position: relative;
+        top: 620px;
+        left: 50px;
+        width: 48px;
+        height: 48px;
+    }
+    .small-banner3 h3 {
+        position: relative;
+        top: 640px;
+        left: 50px;
+        color: #131318;
+        font-family: Mulish;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .small-banner3 p {
+        position: relative;
+        top: 660px;
+        left: 50px;
+        color: #5A5A5D;
+        width: 271px;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
 
 
 }
